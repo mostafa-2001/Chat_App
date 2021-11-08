@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 MaterialColor Primarycolor =  const MaterialColor(
-  125589,
+  0xff125589,
   <int, Color>{
     50:  Color.fromRGBO(18, 85, 137, 1),
     100: Color.fromRGBO(18, 85, 137, 1),
