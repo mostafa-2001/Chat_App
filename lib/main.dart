@@ -1,3 +1,4 @@
+import 'package:chat_app/shared/theme/THeme.dart';
 import 'package:flutter/material.dart';
 import 'package:chat_app/modules/Splach_screen.dart';
 
